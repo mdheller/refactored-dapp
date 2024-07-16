@@ -41,16 +41,16 @@
     "react-json-view": "^1.19.1",
     "react-redux": "^7.1.0",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "^3.4.0",
+    "react-scripts": "^5.0.1",
     "react-star-rating-component": "^1.4.1",
     "react-swipeable-views": "^0.13.1",
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0",
     "singularitynet-platform-contracts": "^0.3.4",
-    "snet-sdk-web": "^1.0.0-beta.15",
+    "snet-sdk-web": "^4.0.0",
     "utf8": "^3.0.0",
     "validate.js": "^0.13.1",
-    "web3": "1.0.0-beta.52"
+    "web3": "4.11.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -90,7 +90,7 @@
     "@storybook/addon-actions": "^5.1.11",
     "@storybook/addon-links": "^5.1.11",
     "@storybook/addons": "^5.1.11",
-    "@storybook/react": "^5.1.11",
+    "@storybook/react": "^8.2.3",
     "eslint-config-prettier": "^4.3.0",
     "eslint-plugin-prettier": "^3.1.0",
     "husky": "^2.7.0",
